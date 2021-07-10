@@ -1,4 +1,4 @@
-[Projects](https://jpang32.github.io/projects/)
+# [Projects](https://jpang32.github.io/projects/)
 
 ## Jared Pangallozzi
 ### Software Developer
